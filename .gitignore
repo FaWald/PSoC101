@@ -1,0 +1,37 @@
+# User-specific workspace files
+*.cywrk.*
+!*.cywrk
+
+# Build output folders
+CortexM0/
+CortexM3/
+ARM_GCC_541/
+ARM_GCC_*.*/
+ARM_GCC_*/
+Debug/
+Release/
+
+# Generated listing / map / hex / elf / object files
+*.o
+*.obj
+*.d
+*.elf
+*.hex
+*.map
+*.lst
+*.axf
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Editor / OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Optional: ignore local IDE settings if they appear
+.vscode/
+.idea/
