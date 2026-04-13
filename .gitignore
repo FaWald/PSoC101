@@ -35,3 +35,4 @@ Desktop.ini
 # Optional: ignore local IDE settings if they appear
 .vscode/
 .idea/
+*.fabia
