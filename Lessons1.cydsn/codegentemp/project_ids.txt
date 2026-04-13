@@ -1,0 +1,6 @@
+C:\Users\fabia\Documents\PSoC Creator\PSoC101\Lessons1.cydsn\Lessons1.cyprj|ebfffd54-e504-4684-ae78-e4c6c7fae539
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|7556c6ef-da0e-411c-85a4-5fca52cf2cbb
+C:\Users\fabia\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|564c6069-7c55-4b97-ac5e-7031ed77b250
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|33934c44-111e-41fa-8d20-49b25bc0ea32
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|45536b9a-7dbd-4a84-9bb3-789e0a85ab9c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a337a4f8-2bea-4a28-9cba-c2279a66d0e4
