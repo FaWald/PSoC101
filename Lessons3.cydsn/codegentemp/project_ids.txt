@@ -1,0 +1,8 @@
+C:\PSoC_Creator\PSoC101\Lessons1.cydsn\Lessons1.cyprj|03871438-2897-4257-9b7a-f02b096fde6c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ff2d68b1-a744-4ed0-b9e3-34ee215e7a28
+C:\Users\fabia\OneDrive - FH JOANNEUM\Dokumente\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7cbd9056-a5af-4afe-a6a0-995b396c89bf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|d8fd1add-8100-442c-a034-a005890403c6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2db6d73c-ff4e-481d-b1b0-e9ee53ace098
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|eea22b5b-8176-463c-a4c6-3cd008ba8124
+C:\PSoC_Creator\PSoC101\Lessons2.cydsn\Lessons2.cyprj|e2863f54-1d90-4c18-8c52-c5bc026cb0ec
+C:\PSoC_Creator\PSoC101\Lessons3.cydsn\Lessons3.cyprj|efb3f04c-e423-4edd-93d8-dc30e6e0b160

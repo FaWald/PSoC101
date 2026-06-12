@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC101\Lessons3\TopDesign">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSoC101\Lessons3">
 <ExpandedNodeIds>
 <v>PSoC101</v>
 <v>PSoC101\Lessons1\TopDesign</v>
@@ -102,7 +102,6 @@
 <v>PSoC101\Lessons2\Shared Files\system_psoc6.h</v>
 <v>PSoC101\Lessons2\Generated_Source</v>
 <v>PSoC101\Lessons2\Generated_Source\PSoC6</v>
-<v>PSoC101\Lessons3</v>
 <v>PSoC101\Lessons3\TopDesign</v>
 <v>PSoC101\Lessons3\Lessons3.cydwr</v>
 <v>PSoC101\Lessons3\Lessons3.cydwr\Pins</v>
@@ -113,11 +112,8 @@
 <v>PSoC101\Lessons3\Lessons3.cydwr\System</v>
 <v>PSoC101\Lessons3\Lessons3.cydwr\Directives</v>
 <v>PSoC101\Lessons3\CM0p (Core 0)</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM GCC Generic</v>
 <v>PSoC101\Lessons3\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM IAR Generic</v>
 <v>PSoC101\Lessons3\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM MDK Generic</v>
 <v>PSoC101\Lessons3\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
 <v>PSoC101\Lessons3\CM0p (Core 0)\Header Files</v>
 <v>PSoC101\Lessons3\CM0p (Core 0)\Source Files</v>
@@ -138,11 +134,8 @@
 <v>PSoC101\Lessons3\CM4 (Core 1)\ARM MDK Generic\cy8c6xx7_cm4_dual.scat</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Header Files</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Source Files</v>
-<v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\ARM GCC Generic</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\ARM GCC Generic\startup_psoc6_01_cm4.S</v>
-<v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\ARM IAR Generic</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\ARM IAR Generic\startup_psoc6_01_cm4.s</v>
-<v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\ARM MDK Generic</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\ARM MDK Generic\startup_psoc6_01_cm4.s</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\main_cm4.c</v>
 <v>PSoC101\Lessons3\CM4 (Core 1)\Source Files\system_psoc6_cm4.c</v>
@@ -153,34 +146,10 @@
 <v>PSoC101\Lessons3\Generated_Source\PSoC6</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
+<v>PSoC101</v>
 <v>PSoC101\Lessons1</v>
 <v>PSoC101\Lessons2</v>
 <v>PSoC101\Lessons3</v>
-<v>PSoC101\Lessons3\TopDesign</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\Pins</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\Analog</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\DMA</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\Clocks</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\Interrupts</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\System</v>
-<v>PSoC101\Lessons3\Lessons3.cydwr\Directives</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM GCC Generic</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM GCC Generic\cy8c6xx7_cm0plus.ld</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM IAR Generic</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM IAR Generic\cy8c6xx7_cm0plus.icf</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM MDK Generic</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\ARM MDK Generic\cy8c6xx7_cm0plus.scat</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Header Files</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\ARM GCC Generic</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\ARM GCC Generic\startup_psoc6_01_cm0plus.S</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\ARM IAR Generic</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\ARM IAR Generic\startup_psoc6_01_cm0plus.s</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\ARM MDK Generic</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\ARM MDK Generic\startup_psoc6_01_cm0plus.s</v>
-<v>PSoC101\Lessons3\CM0p (Core 0)\Source Files\main_cm0p.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -354,12 +323,65 @@
 <v>PSoC101\Lessons3\CortexM0p</v>
 <v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541</v>
 <v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm0plus.lst</v>
+<v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm0plus.lst</v>
 <v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Lessons3.elf</v>
 <v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Lessons3.hex</v>
 <v>PSoC101\Lessons3\CortexM0p\ARM_GCC_541\Debug\Lessons3.map</v>
 <v>PSoC101\Lessons3\CortexM4</v>
 <v>PSoC101\Lessons3\CortexM4\ARM_GCC_541</v>
 <v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ble_clk.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_device.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc6_01_cm4.lst</v>
+<v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc6_cm4.lst</v>
 <v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Lessons3.elf</v>
 <v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Lessons3.hex</v>
 <v>PSoC101\Lessons3\CortexM4\ARM_GCC_541\Debug\Lessons3.map</v>
@@ -489,6 +511,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\Lessons3.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lessons3.cydsn\main_cm4.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -496,7 +519,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="654, 407" SelectedTabbedMdiWindow="0d64c191-bd22-4a7b-bce7-b205d3393243"><DocumentWindow Key="C:\PSoC_Creator\PSoC101\Lessons3.cydsn\TopDesign\TopDesign.cysch" Guid="0d64c191-bd22-4a7b-bce7-b205d3393243" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="657, 309" SelectedTabbedMdiWindow="4d76c676-bcd9-48cc-85dd-2f7342e696f8"><DocumentWindow Key="C:\PSoC_Creator\PSoC101\Lessons3.cydsn\TopDesign\TopDesign.cysch" Guid="0d64c191-bd22-4a7b-bce7-b205d3393243" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1baecfbf-0dcc-4293-a3a7-14c576ad1b49" /><DocumentWindow Key="C:\PSoC_Creator\PSoC101\Lessons3.cydsn\main_cm4.c" Guid="4d76c676-bcd9-48cc-85dd-2f7342e696f8" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
